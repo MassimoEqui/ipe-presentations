@@ -1,8 +1,9 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70218" creator="Ipe 7.2.29">
-<info created="D:20261026110013" modified="D:20261027112057"/>
-<preamble>\usepackage{amssymb}
+<info created="D:20261026110013" modified="D:20261027113335"/>
+<preamble>\usepackage{amsmath}
+\usepackage{amssymb}
 \usepackage{pifont}
 
 \newcommand{\xmark}{\ding{55}}
@@ -2076,7 +2077,7 @@ h
 156 776 m
 156 784 l
 </path>
-<text matrix="1 0 0 1 -32 -512" transformations="translations" pos="96 800" stroke="black" type="label" width="62.611" height="7.473" depth="2.49" halign="right" valign="bottom" style="math">f_4(P,T,h) = c</text>
+<text matrix="1 0 0 1 -32 -512" transformations="translations" pos="96 800" stroke="black" type="label" width="62.611" height="7.473" depth="2.49" halign="right" valign="bottom" style="math">f_5(P,T,h) = c</text>
 <path matrix="0.5 0 0 0.833333 216 -325.333" stroke="black" pen="1">
 112 688 m
 112 640 l
@@ -2774,7 +2775,6 @@ h
 156 776 m
 156 784 l
 </path>
-<text matrix="1 0 0 1 140 -620" transformations="translations" pos="200 816" stroke="black" type="label" width="8.302" height="6.897" depth="0" halign="center" valign="center">\checkmark</text>
 <path matrix="1 0 0 1 184 -592" stroke="black" dash="fine dashes" pen="0.5">
 156 776 m
 156 784 l
@@ -2791,11 +2791,6 @@ h
 156 776 m
 156 784 l
 </path>
-<text matrix="1 0 0 1 160 -620" transformations="translations" pos="200 816" stroke="black" type="label" width="8.302" height="6.897" depth="0" halign="center" valign="center">\checkmark</text>
-<text matrix="1 0 0 1 180 -620" transformations="translations" pos="200 816" stroke="black" type="label" width="8.302" height="6.897" depth="0" halign="center" valign="center">\checkmark</text>
-<text matrix="1 0 0 1 200 -620" transformations="translations" pos="200 816" stroke="black" type="label" width="8.302" height="6.897" depth="0" halign="center" valign="center">\checkmark</text>
-<text matrix="1 0 0 1 120 -620" transformations="translations" pos="200 816" stroke="black" type="label" width="8.302" height="6.897" depth="0" halign="center" valign="center">\checkmark</text>
-<text matrix="1 0 0 1 100 -620" transformations="translations" pos="200 816" stroke="black" type="label" width="8.302" height="6.897" depth="0" halign="center" valign="center">\checkmark</text>
 <path matrix="1 0 0 1 164 -592" stroke="black" dash="fine dashes" pen="0.5">
 156 776 m
 156 784 l
@@ -2833,6 +2828,159 @@ h
 156 776 m
 156 784 l
 </path>
-<text transformations="translations" pos="228 356" stroke="black" type="label" valign="baseline" style="math">\spanPTh{P}{T}{h}</text>
+<text matrix="1 0 0 1 -212 -16" transformations="translations" pos="244 360" stroke="black" type="label" width="116.502" height="7.473" depth="2.49" valign="bottom" style="math">\spanPTh{P}{T}{h} = \{c_1,c_2,c_3\}</text>
+<text matrix="1 0 0 1 -216 8" transformations="translations" pos="248 324" stroke="black" type="label" width="26.376" height="4.294" depth="1.49" valign="bottom" style="math">c=c_3</text>
+<path matrix="1 0 0 1 -300 -608" stroke="black" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
+<path matrix="1 0 0 1 -280 -608" stroke="black" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
+<path matrix="1 0 0 1 -260 -608" stroke="black" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
+<path matrix="1 0 0 1 -240 -608" stroke="black" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
+<path matrix="1 0 0 1 -340 -608" stroke="black" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
+<path matrix="1 0 0 1 -320 -608" stroke="black" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
+<path matrix="1 0 0 1 -180 -608" stroke="black" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
+<path matrix="1 0 0 1 -160 -608" stroke="black" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
+<path matrix="1 0 0 1 -140 -608" stroke="black" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
+<path matrix="1 0 0 1 -120 -608" stroke="black" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
+<path matrix="1 0 0 1 -220 -608" stroke="black" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
+<path matrix="1 0 0 1 -200 -608" stroke="black" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
+<path matrix="1 0 0 1 -60 -608" stroke="black" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
+<path matrix="1 0 0 1 -40 -608" stroke="black" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
+<path matrix="1 0 0 1 -20 -608" stroke="black" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
+<path matrix="1 0 0 1 0 -608" stroke="black" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
+<path matrix="1 0 0 1 -100 -608" stroke="black" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
+<path matrix="1 0 0 1 -80 -608" stroke="black" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
+<path matrix="1 0 0 1 122 -208" stroke="darkgray" pen="1">
+148 412 m
+148 396 l
+</path>
+<path matrix="1 0 0 1 2 -208" stroke="darkgray" pen="1">
+148 412 m
+148 396 l
+</path>
+<path matrix="1 0 0 1 242 -208" stroke="darkgray" pen="1">
+148 412 m
+148 396 l
+</path>
+<path matrix="1 0 0 1 20 -608" stroke="darkgray" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
+<path matrix="1 0 0 1 40 -608" stroke="darkgray" pen="1">
+376 808 m
+376 800 l
+384 800 l
+384 808 l
+h
+</path>
 </page>
 </ipe>
